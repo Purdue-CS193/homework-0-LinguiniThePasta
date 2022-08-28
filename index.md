@@ -1,9 +1,9 @@
 # Lingyu Li's First CS193 Homework
 
 Things I love about CS 193
-- The class takes place on the afternoon
+- The class takes place in the afternoon
 - The class has a PSO instead of a lab (very quirky)
-- Has only 6 Homeworks!!!
+- Has _only_ **6** Homeworks!!!
 
 # Below is Stock Template Code, above is my work
 
