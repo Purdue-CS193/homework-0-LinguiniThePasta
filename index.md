@@ -1,3 +1,14 @@
+# Lingyu Li's First CS193 Homework
+
+Things I love about CS 193
+- The class takes place on the afternoon
+- The class has a PSO instead of a lab (very quirky)
+- Has only 6 Homeworks!!!
+
+# Below is Stock Template Code, above is my work
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
